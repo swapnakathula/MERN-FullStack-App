@@ -1,0 +1,31 @@
+{
+  "name": "mern-fullstack-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnakathula/MERN-FullStack-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnakathula/MERN-FullStack-App/issues"
+  },
+  "homepage": "https://github.com/swapnakathula/MERN-FullStack-App#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-cli": "^6.26.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.4",
+    "react-bootstrap": "^0.32.1",
+    "react-modal": "^3.4.4",
+    "react-router-dom": "^4.2.2"
+  }
+}
